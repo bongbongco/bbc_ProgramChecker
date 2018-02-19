@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "0640b7f8613afcdd2bd71537017cda0b1f6eb38e33ffd21064e344d64bb0dd2d"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "0",
+            "os_name": "nt",
+            "platform_machine": "AMD64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "7",
+            "platform_system": "Windows",
+            "platform_version": "6.1.7601",
+            "python_full_version": "2.7.14",
+            "python_version": "2.7",
+            "sys_platform": "win32"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pywin32": {
+            "hashes": [
+                "sha256:7181f6aa0730caf888be592cf612cddb8987409fa4acf7393913c558da9b28d5",
+                "sha256:d8a9ac7806e86b6c28be957407b50ca02144c7c0639fb125f8bd98e968ed642f",
+                "sha256:9d7e73262ca8bb8b34e7e17a29d3693e1b4b701389847bc70463adbb58b8245b",
+                "sha256:33971ade23c830f7660ad25ebf7c7625f8cd7efb635c880238bd2c5c23ee6ae8",
+                "sha256:bace4824aa0242d1f3d9fd98f2116e0e1e9c8e0705ca135e5ce72960210b0c01",
+                "sha256:4e27d2c9a97b0e8d538155b8804929780df9a6b3ebc31e845d16b7efa2142161",
+                "sha256:356de1e08453e668cfe8fa892b17b46600b94373373c6b2b743730fc1d965a1c"
+            ],
+            "version": "==222"
+        },
+        "wmi": {
+            "hashes": [
+                "sha256:b1c57a5c7e27596736026ec7dd9a7c5318dad8248e7638f40c60c33cb33ac935",
+                "sha256:192ccfad3d7bb3ef43116d753f4d5cf85c0a6b738f832cc131e928fd93cdd400"
+            ],
+            "version": "==1.4.9"
+        }
+    },
+    "develop": {}
+}
